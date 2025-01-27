@@ -1,6 +1,14 @@
 # ocean_rescue
+![1](https://github.com/user-attachments/assets/07eff4f6-6102-41f7-81cc-e6b46754b1a7)
 
-Empowering Communities for Marine Conservation
+[3](https://github.com/user-attachments/assets/f5fae52c-6805-4048-9ca2-ab05febe8bae)
+![2](https://github.com/user-attachments/assets/0941e155-7899-45da-943d-7ad31f013adc)
+![8](https://github.com/user-attachments/assets/4f8d9451-216a-484a-8788-de6e951aac2d)
+![7](https://github.com/user-attachments/assets/8f813482-8c79-4387-921a-58bacfcd9d11)
+![6](https://github.com/user-attachments/assets/4cd52741-ad12-4064-a966-ef9db14cf589)
+![5](https://github.com/user-attachments/assets/78595c92-98bf-4ff5-a31c-e6266b88185e)
+![4](https://github.com/user-attachments/assets/701f0520-864e-4457-afb6-6247d1a7c7f3)
+Empowering Communities for Marine Conservation!
 
 #npm update command
   - npm install -g npm@10.8.3
