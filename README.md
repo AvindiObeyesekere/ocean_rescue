@@ -1,5 +1,4 @@
 # ocean_rescue
-![1](https://github.com/user-attachments/assets/07eff4f6-6102-41f7-81cc-e6b46754b1a7)
 
 [3](https://github.com/user-attachments/assets/f5fae52c-6805-4048-9ca2-ab05febe8bae)
 ![2](https://github.com/user-attachments/assets/0941e155-7899-45da-943d-7ad31f013adc)
